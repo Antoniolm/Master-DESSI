@@ -1,0 +1,17 @@
+#s-3a079e8c-28f7-42d8-9e64-ae0f43ef4ce5 #s-Image_1 {
+  -ms-filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=6.123233995736766E-17,M12=-1.0,M21=1.0,M22=6.123233995736766E-17);
+  filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=6.123233995736766E-17,M12=-1.0,M21=1.0,M22=6.123233995736766E-17);
+  margin-left: 132px;
+  margin-top: -132px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-3a079e8c-28f7-42d8-9e64-ae0f43ef4ce5 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

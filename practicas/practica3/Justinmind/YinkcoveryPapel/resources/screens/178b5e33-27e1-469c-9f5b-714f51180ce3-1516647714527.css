@@ -1,0 +1,92 @@
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 #s-Image_1 {
+  position: absolute;
+  top: -100px;
+  left: -124px;
+  width: 633px;
+  height: 935px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 #s-Hotspot_1 {
+  position: absolute;
+  top: 145px;
+  left: 162px;
+  width: 187px;
+  height: 72px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 #s-Hotspot_2 {
+  position: absolute;
+  top: 547px;
+  left: 3px;
+  width: 89px;
+  height: 89px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 #s-Hotspot_3 {
+  position: absolute;
+  top: 543px;
+  left: 93px;
+  width: 82px;
+  height: 96px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 #s-Hotspot_4 {
+  position: absolute;
+  top: 540px;
+  left: 172px;
+  width: 76px;
+  height: 98px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 #s-Hotspot_5 {
+  position: absolute;
+  top: 547px;
+  left: 245px;
+  width: 59px;
+  height: 91px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 #s-Hotspot_6 {
+  position: absolute;
+  top: 541px;
+  left: 306px;
+  width: 55px;
+  height: 96px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-178b5e33-27e1-469c-9f5b-714f51180ce3 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
